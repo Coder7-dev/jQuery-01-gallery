@@ -1,5 +1,5 @@
 Название: Галерея изображений "Мстители"
-Ссылка: https://github.com/Coder7-dev/jQuery-01-gallery
+
 Стек: HTML, CSS, JS (jQuery)
 
 Задачи: 
